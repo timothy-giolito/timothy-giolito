@@ -1,4 +1,4 @@
-# 🧑‍💻 Timothy-Giolito
+# 🧑‍💻 Timothy Giolito
 
 ![Student](https://img.shields.io/badge/Student-UPO-red)
 ![Computer Science](https://img.shields.io/badge/Computer%20Science-Enthusiast-green)
