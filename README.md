@@ -12,7 +12,7 @@
 # 📚​​ Formazione
 
 *  *Diploma Tecnico Conduzione del Mezzo Aereo (2018-2023)*
-*  *Laurea Triennale in Informatica (in corso)*
+*  *Laurea Triennale in Informatica (2023-in corso)*
 
 # 🎖️ Linguaggi e Tecnologie
 
