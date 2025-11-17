@@ -16,8 +16,6 @@
 
 # 🎖️ Linguaggi e Tecnologie
 
-C, Java, Python, SQL, HTML, JavaScript, CSS
-
 ![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-giolito&layout=compact&theme=radical)
 
 ---
