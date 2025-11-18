@@ -16,7 +16,7 @@
 
 # 🎖️ Linguaggi e Tecnologie
 
-
+![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-giolito&layout=compact&theme=radical)
 
 ---
 *Aggiorno il mio profilo man mano che continuo il mio percorso di apprendimento.*
