@@ -16,8 +16,6 @@
 
 # 🎖️ Linguaggi e Tecnologie
 
-### 💡 Linguaggi e tecnologie
-
 * **C**, **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**
 
 ---
