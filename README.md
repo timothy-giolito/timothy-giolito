@@ -20,7 +20,5 @@
 
 ---
 
-<div align="centre">
 *Aggiorno il mio profilo man mano che continuo il mio percorso di apprendimento.*
 
-</div>
